@@ -1,1 +1,0 @@
-Use reed switch as door sensor to detect intruder
